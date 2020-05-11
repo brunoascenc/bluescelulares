@@ -8,7 +8,7 @@ As maiores empresas da área
 Utilizo arquivos JSON para armazenar o conteudo e faço chamadas via AJAX para jogar na tela.
 
 ## Screenshots
-![](e2/images/jsonexample.png)
+![](blues/images/jsonexample.png)
 
 
 
