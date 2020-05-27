@@ -1,5 +1,6 @@
 # Blues Celulares
 E-Commerce de smartphones
+* URL (https://bluescelulares.netlify.app/)
 
 ## Code style
 Utilizo arquivos JSON para armazenar o conteudo e faço chamadas via AJAX para jogar na tela.
