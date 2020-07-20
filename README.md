@@ -1,14 +1,12 @@
 # Blues Celulares
 E-Commerce de smartphones
-
-## Motivação
-As maiores empresas da área
+* URL (https://bluescelulares.netlify.app/)
 
 ## Code style
 Utilizo arquivos JSON para armazenar o conteudo e faço chamadas via AJAX para jogar na tela.
 
 ## Screenshots
-![](e2/images/jsonexample.png)
+![](blues/images/jsonexample.png)
 
 
 
